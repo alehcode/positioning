@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div{
+	width: 200px;
+	height: 200px;
+
+}
+.uno{
+	background-color: #ee3e64;
+}
+.dos{
+	background-color: #44accf;
+	position: absolute;
+	left: 12.5em;
+}
+.tres{
+	background-color: #b7d84b;
+}
+.cuatro{
+	background-color: yellow;
+}
